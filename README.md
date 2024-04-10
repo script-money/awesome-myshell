@@ -4,6 +4,9 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 
 > If you wanna add content, please submit an issue or submit a pull request.
 
+> If you're looking for a list in other languages, please click to jump:
+> - en [English](README.md)
+> - zh_CN [Simplified Chinese](README_zh_CN.md)
 ## Official Links
 
 ### Website
