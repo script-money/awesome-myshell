@@ -6,7 +6,7 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 
 > If you're looking for a list in other languages, please click to jump:
 > - en [English](README.md)
-> - zh_CN [Simplified Chinese](README_zh_CN.md)
+> - zh_CN [简体中文](README_zh_CN.md)
 ## Official Links
 
 ### Website
