@@ -1,12 +1,11 @@
 # Awesome MyShell
 
-A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentralized AI consumer layer.*
-
-> If you wanna add content, please submit an issue or submit a pull request.
+A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decentralized AI consumer layer.*
 
 > If you're looking for a list in other languages, please click to jump:
 > - en [English](README.md)
 > - zh_CN [简体中文](README_zh_CN.md)
+
 ## Official Links
 
 ### Website
@@ -22,7 +21,7 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 ### Tech & Research
 
 - [GitHub](https://github.com/myshell-ai)
-- [Research Platform](https://research.myshell.ai/)
+- [Research](https://research.myshell.ai/)
 - [Hugging Face](https://huggingface.co/myshell-ai)
 
 ### Community
@@ -35,6 +34,7 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 - [MyShell Genesis Pass Incubator](https://discord.gg/8D5De74gd3)
 - [Official Documentation](https://docs.myshell.ai/)
 - [Official ProConfig Documentation](https://myshell-wiki.gitbook.io/proconfig-tutorial)
+- [Pro Config Product FAQs](https://myshellai.notion.site/Pro-Config-Product-FAQs-69a057473b184070b5c8596796b49e5f#899364ccab07447cb0611ace79ea5188)
 
 ### Opportunities
 
@@ -77,6 +77,7 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 - [Noerman's pro config guide](https://discord.com/channels/1122227993805336617/1221521722629427423)
 - [Emotion Bot](https://discord.com/channels/1122227993805336617/1226707120007680091)
 - [Proconfig VSCode Setup Tips](https://discord.com/channels/1122227993805336617/1226205726133719050)
+- [MyShell 进阶 - 入门 Pro Config](https://devgua.xlog.app/MyShell-Advanced-Beginner-s-Guide-to-Pro-Config?locale=en)
 
 ### Tokenomics
 
@@ -85,4 +86,12 @@ A curated list of awesome [MyShell](https://myshell.ai/)——*The first decentr
 - [我为何看好 Myshell,以及普通用户如何深度参与项目](https://www.youtube.com/watch?v=lOpz7HHYS6o)
 - [详解 Myshell 徽章系统：AI 与 Web3 创作者经济的领先实践](https://www.techflowpost.com/article/detail_16103.html)
 
-> if you feel this list is helpful, you can join MyShell via [this invite link](https://app.myshell.ai/invite/8cdbbd)
+### Bot Review
+
+- [MyShell’s Learning Lab: What a Week!](http://thefriendlyspider.com/myshells-learning-lab-what-a-week)
+
+## how to contribute
+
+If you wanna add content, please submit an issue or submit a pull request.
+
+If the original text is in English, do not modify the article title.
