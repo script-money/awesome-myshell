@@ -16,7 +16,11 @@ A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decen
 ### Social Media
 
 - [X (Twiiter)](https://twitter.com/myshell_ai)
-- [Medium Blog](https://medium.com/@MyShell.ai)
+- [Medium - Blog](https://medium.com/@MyShell.ai)
+- [Medium - Publication Group](https://medium.com/myshell-ai)
+- [YouTube](https://www.youtube.com/@MyShell_ai)
+- [LinkedIn](https://www.linkedin.com/company/ai-myshell/)
+
 
 ### Tech & Research
 
@@ -33,8 +37,6 @@ A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decen
 
 - [MyShell Genesis Pass Incubator](https://discord.gg/8D5De74gd3)
 - [Official Documentation](https://docs.myshell.ai/)
-- [Official ProConfig Documentation](https://myshell-wiki.gitbook.io/proconfig-tutorial)
-- [Pro Config Product FAQs](https://myshellai.notion.site/Pro-Config-Product-FAQs-69a057473b184070b5c8596796b49e5f#899364ccab07447cb0611ace79ea5188)
 
 ### Opportunities
 
@@ -73,6 +75,7 @@ A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decen
 
 ### Pro config
 
+- [Official ProConfig Tutorial](https://myshell-wiki.gitbook.io/proconfig-tutorial)
 - [Leon X's pro config guide](https://twitter.com/Wiggin_Han/status/1774464780335456339)
 - [Noerman's pro config guide](https://discord.com/channels/1122227993805336617/1221521722629427423)
 - [Emotion Bot](https://discord.com/channels/1122227993805336617/1226707120007680091)
