@@ -18,6 +18,9 @@
 
 - [X (Twitter)](https://twitter.com/myshell_ai)  
 - [Medium 博客](https://medium.com/@MyShell.ai)
+- [Medium - 社区精选](https://medium.com/myshell-ai)
+- [YouTube](https://www.youtube.com/@MyShell_ai)
+- [LinkedIn](https://www.linkedin.com/company/ai-myshell/)
 
 ### 技术与研究
 
@@ -28,14 +31,12 @@
 ### 社区
 
 - [Discord 社区](https://discord.com/invite/myshell)
-- [官方论坛 (Discord)](https://discord.com/channels/1122227993805336617/1127967758919925953) 
+- [官方论坛 (Discord)](https://discord.com/channels/1122227993805336617/1127967758919925953)
 
 ### 学习
 
 - [MyShell Genesis Pass 孵化器](https://discord.gg/8D5De74gd3)
 - [官方文档](https://docs.myshell.ai/)
-- [官方 ProConfig 文档](https://myshell-wiki.gitbook.io/proconfig-tutorial)
-- [Pro Config 产品 FAQ](https://myshellai.notion.site/Pro-Config-Product-FAQs-69a057473b184070b5c8596796b49e5f#899364ccab07447cb0611ace79ea5188)
 
 ### 岗位申请
 
@@ -61,7 +62,7 @@
 
 ## 社区内容
 
-> 更多内容在[官方论坛](https://discord.com/channels/1122227993805336617/1127967758919925953)
+> 更多内容在[官方论坛](https://discord.com/channels/1122227993805336617/1127967758919925953)和[Medium - 社区精选](https://medium.com/myshell-ai)
 
 ### 提示词
 
@@ -74,6 +75,7 @@
 
 ### 进阶配置
 
+- [官方 ProConfig 文档](https://myshell-wiki.gitbook.io/proconfig-tutorial)
 - [Leon X's pro config 入门](https://twitter.com/Wiggin_Han/status/1774341981063217389)
 - [Noerman's pro config guide](https://discord.com/channels/1122227993805336617/1221521722629427423)
 - [Emotion Bot](https://discord.com/channels/1122227993805336617/1226707120007680091)

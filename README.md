@@ -21,7 +21,6 @@ A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decen
 - [YouTube](https://www.youtube.com/@MyShell_ai)
 - [LinkedIn](https://www.linkedin.com/company/ai-myshell/)
 
-
 ### Tech & Research
 
 - [GitHub](https://github.com/myshell-ai)
@@ -62,7 +61,7 @@ A curated list of awesome [MyShell](https://myshell.ai/) —— *The first decen
 
 ## Community Contents
 
-> more contents in [Official Forum](https://discord.com/channels/1122227993805336617/1127967758919925953)
+> more contents in [Official Forum](https://discord.com/channels/1122227993805336617/1127967758919925953) and [Medium - Publication Group](https://medium.com/myshell-ai)
 
 ### Prompt
 
